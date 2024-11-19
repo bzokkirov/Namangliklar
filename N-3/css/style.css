@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: 0 auto;
+    width: 80%;
+}
+
+a{
+    text-decoration: none;
+}
+.sec{
+    gap: 40px;
+    display: flex;
+}
+li{
+    list-style-type: none;
+}
+.list-item{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.page{
+    border-radius: 2px;
+    padding: 15px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3); /* pastki qismga soyani qo‘shish */
+    margin-top: 45px;
+    display: flex;
+    justify-content: space-around;
+}
+.list-item .sec .item button{
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    background: linear-gradient(90deg, #1E96C8 15.07%, #37AEE2 85.96%);
+}
+
+
+/* Main-1 */
+
+
+.card-box{
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 30px;
+    background: #F6F6F9;
+    display: flex;
+    gap: 60px;
+}
+.card{
+    gap: 10px;
+    display: flex;
+}
+.card img{
+    width: 50px;
+    height: 50px;
+}
+.card h3{
+    margin-top: 10px;
+}
+
+
+.card-box2{
+    display: flex;
+}
+.card-box2 .card2 img{
+    width: 386px;
+    height: 200px;
+    border-radius: 10px;
+}
+.card2{
+    margin-top: 30px;
+}
+.box{
+    margin-top: 40px;
+    padding: 20px;
+    background: #EFBA542E;
+    display: flex;
+    border-radius: 30px;
+    gap: 40px;
+}
+.box button{
+    background: linear-gradient(90deg, #FE5C28 0%, rgba(255, 139, 54, 0.9) 88.43%);
+    color: white;
+    padding: 15px;
+    font-size: 20px;
+    border: none;
+    border-radius: 20px;
+}
+.card-flex{
+    display: flex
+}
+
+.hard{
+    margin-top: 30px;
+}
+.card-y img{
+    margin-top: 20px;
+    width: 252px !important;
+    height: 143px !important;
+}
+.card-y .text-b{
+    margin-top: 20px;
+}
+.card-y{
+    gap: 20px;
+    display: flex;
+}
+
+
+.hard h2{
+    margin: 0 auto;
+    width: 80%;
+}
+.hard .container{
+    display: flex;
+}
+.card-x{
+    border-radius: 20px;
+    background: #F6F6F9;
+}
+.container2{
+    margin: 0 auto;
+    width: 80%;
+    font-size: 17px;
+}
+.container2 h3{
+    margin: 20px 0px;
+}
+.container2 p{
+    margin: 14px 0px;
+}
+.btn{
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background: #295093;
+    color: white;
+}
+.btn-box{
+    display: flex;
+    justify-content: center;
+}
+.card-y .text-b{
+    display: block;
+}
+
+
+
+
+footer{
+    margin-top: 30px;
+    background: #295093;
+}
+footer .container section{
+    display: flex;
+    gap: 50px;
+    color: white;
+}
+footer .container .footer{
+    display: flex;
+    gap: 50px;
+    color: white;
+}
+footer .container ul li a{
+    color: white;
+}
+.text-c{
+    display: flex;
+}
+.text-c button{
+    background-color: white;
+    color: #295093;
+    border-radius: 10px;
+    border: none;
+}
+.container section{
+    padding: 18px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.container section .nam{
+    background: #133C82;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.ul{
+    margin: 0;
+    width: 80%;
+    display: flex;
+    gap: 40px;
+    justify-content: space-around;
+}
+.ul ul li a{
+    color: white;
+}
+.container4{
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+}
